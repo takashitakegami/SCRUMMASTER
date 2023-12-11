@@ -1,4 +1,4 @@
-# Desarrollo: 
+# Proyecto final: 
 
 ## Antipatrones identificados:
 
